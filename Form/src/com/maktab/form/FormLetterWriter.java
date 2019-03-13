@@ -1,7 +1,5 @@
 package com.maktab.form;
 
-import java.util.Scanner;
-
 public class FormLetterWriter {
     private String firstName;
     private String lastName;

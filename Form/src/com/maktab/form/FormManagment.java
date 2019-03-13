@@ -12,7 +12,8 @@ public class FormManagment {
         System.out.println("Enter your last name: ");
         String lastName=scanner.nextLine();
         form.setLastName(lastName);
-        form.displaySalutation(form.getFirstName(),form.getLastName());
-        form.displaySalutation(form.getFirstName());
-    }
+        form.displaySalutation(form.getFirstName());//display first name with Dear
+        form.displaySalutation(form.getFirstName(),form.getLastName());//display first name and last name with greeting Dear
+
+    }//end of method main
 }
