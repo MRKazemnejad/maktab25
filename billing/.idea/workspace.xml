@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e223c80d-decb-4391-bf75-fde49f1a020c" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="e223c80d-decb-4391-bf75-fde49f1a020c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+>>>>>>> Billing_Develop
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +16,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Billing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BillingManagment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> Billing_Develop
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,7 +52,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< HEAD
         <entry key="$PROJECT_DIR$/.." value="Billing_Develop" />
+=======
+        <entry key="$PROJECT_DIR$/.." value="master" />
+>>>>>>> Billing_Develop
       </map>
     </option>
   </component>
@@ -48,18 +81,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+=======
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="billing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="billing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="billing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="billing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+>>>>>>> Billing_Develop
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552492379820" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+=======
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+>>>>>>> Billing_Develop
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -84,6 +143,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.BillingManagment" />
+<<<<<<< HEAD
+=======
+        <item itemvalue="Application.BillingManagment" />
+>>>>>>> Billing_Develop
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +165,12 @@
       <workItem from="1552475979009" duration="24000" />
       <workItem from="1552476618425" duration="575000" />
       <workItem from="1552490024689" duration="21000" />
+<<<<<<< HEAD
       <workItem from="1552491343857" duration="1010000" />
+=======
+      <workItem from="1552491343857" duration="1285000" />
+      <workItem from="1552492672651" duration="264000" />
+>>>>>>> Billing_Develop
     </task>
     <task id="LOCAL-00001" summary="Create project 'Billing'">
       <created>1552491405891</created>
@@ -125,6 +193,7 @@
       <option name="project" value="LOCAL" />
       <updated>1552492333861</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
@@ -135,6 +204,17 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
+=======
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="281000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
+>>>>>>> Billing_Develop
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -143,7 +223,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15548281" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.05400982" />
+>>>>>>> Billing_Develop
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -168,6 +252,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create project 'Billing'" />
     <MESSAGE value="Add 'Scanner' to class BillingManagment" />
@@ -185,18 +270,30 @@
     <entry file="file://$PROJECT_DIR$/src/Billing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
+=======
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Billing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+>>>>>>> Billing_Develop
           <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BillingManagment.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="273">
           <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+=======
+        <state relative-caret-position="375">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+>>>>>>> Billing_Develop
         </state>
       </provider>
     </entry>
   </component>
+<<<<<<< HEAD
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
@@ -213,4 +310,6 @@
       </state>
     </states>
   </component>
+=======
+>>>>>>> Billing_Develop
 </project>
