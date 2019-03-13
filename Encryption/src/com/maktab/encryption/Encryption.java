@@ -32,7 +32,7 @@ public class Encryption {
 
     }
 
-    public void printch() {
+    public void printCode() {
         encryptAll(convert);
         for (int s : encryptConvert) {
             if(s==(32+encryptNumber)){
@@ -42,13 +42,6 @@ public class Encryption {
         }
     }
 
-    public static void main(String[] args) {
-        Encryption en = new Encryption();
-        en.getMessage("0123 gafs reaa");
-        en.getCode(5);
-        en.printch();
 
-
-    }
 
 }
