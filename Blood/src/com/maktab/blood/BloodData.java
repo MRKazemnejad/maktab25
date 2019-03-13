@@ -7,7 +7,7 @@ public class BloodData {
         this.bloodType = "O";
         this.rhFactor = '+';
     }
-
+//Constructor with checking blood type and RH factor
     public BloodData(String bloodType, char rhFactor) {
         if (bloodType.equals("A") || bloodType.equals("B") || bloodType.equals("O") || bloodType.equals("AB")){
             this.bloodType=bloodType;

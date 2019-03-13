@@ -11,6 +11,7 @@ public class Patient {
        this.ID=0;
        this.age=0;
     }
+    //constructor with 4 value
     public  Patient(int ID,int age,String bloodtype,char rhfactor){
         this.ID=ID;
         this.age=age;
